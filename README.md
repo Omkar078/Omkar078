@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar078&label=Profile%20views&color=0e75b6&style=flat" alt="omkar078" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@omkarpanchal01" target="blank"><img src="https://img.shields.io/twitter/follow/@omkarpanchal01?logo=twitter&style=for-the-badge" alt="@omkarpanchal01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@omkarpanchal01" target="blank"><img src="https://img.shields.io/twitter/follow/omkarpanchal01?logo=twitter&style=for-the-badge" alt="@omkarpanchal01" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Data Analytics and Data Engineering**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@omkarpanchal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@omkarpanchal01" height="30" width="40" /></a>
+<a href="https://twitter.com/@omkarpanchal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkarpanchal01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omkar panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar panchal" height="30" width="40" /></a>
 <a href="https://fb.com/omkar panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omkar panchal" height="30" width="40" /></a>
 <a href="https://instagram.com/_bore_dum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bore_dum" height="30" width="40" /></a>
