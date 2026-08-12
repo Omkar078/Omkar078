@@ -29,7 +29,7 @@
 - 📚 Published researcher in **LLM-based healthcare data de-identification**
 - 🌱 Currently exploring **Advanced Data Engineering & Generative AI**
 
-📫 Reach me at **omkarpanchal6789@gmail.com**
+📫 Reach me at **omkarpanchal028@gmail.com**
 
 ---
 
